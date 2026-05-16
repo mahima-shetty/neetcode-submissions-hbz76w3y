@@ -6,13 +6,12 @@ class Solution:
         res = []
 
     
-        def backtrack(combination, next_digits):
-            if not next_digits:
+        def backtrack(combination, digits):
+            if not digits:
                 res.append(combination)
                 return
-            for letter in phone[next_digits[0]]:
-                backtrack(combination + letter, next_digits[1:])
-            
+            for i in phone[digits[0]]:
+                backtrack(combination + i, digits[1:])
+        
         backtrack("", digits)
         return res
-
