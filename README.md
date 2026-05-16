@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0214-shortest-palindrome](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0214-shortest-palindrome) |
 ## Rolling Hash
 |  |
@@ -89,4 +90,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0214-shortest-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
