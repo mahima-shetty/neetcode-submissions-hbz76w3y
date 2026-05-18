@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0214-shortest-palindrome](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0214-shortest-palindrome) |
 ## Rolling Hash
@@ -111,6 +112,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0014-longest-common-prefix) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Two Pointers
 |  |
@@ -120,4 +122,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
