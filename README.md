@@ -112,6 +112,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0014-longest-common-prefix) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -131,4 +132,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
