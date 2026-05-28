@@ -183,5 +183,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0176-second-highest-salary) |
+| [0197-rising-temperature](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
