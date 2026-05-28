@@ -122,6 +122,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0011-container-with-most-water](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0128-longest-consecutive-sequence) |
 | [0740-delete-and-earn](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0740-delete-and-earn) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -164,6 +165,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0740-delete-and-earn](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0740-delete-and-earn) |
 ## Linked List
 |  |
