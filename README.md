@@ -176,4 +176,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
