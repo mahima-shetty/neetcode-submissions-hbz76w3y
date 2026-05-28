@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0020-valid-parentheses) |
@@ -126,6 +127,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0011-container-with-most-water) |
 ## Greedy
 |  |
@@ -160,6 +162,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0005-longest-palindromic-substring) |
 | [0740-delete-and-earn](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0740-delete-and-earn) |
 ## Linked List
 |  |
