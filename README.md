@@ -108,6 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0009-palindrome-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
