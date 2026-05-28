@@ -148,6 +148,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0023-merge-k-sorted-lists) |
 ## Union-Find
 |  |
 | ------- |
@@ -160,4 +161,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0740-delete-and-earn) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
