@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0020-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0214-shortest-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0387-first-unique-character-in-a-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0128-longest-consecutive-sequence) |
+| [0387-first-unique-character-in-a-string](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0387-first-unique-character-in-a-string) |
 | [0740-delete-and-earn](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0740-delete-and-earn) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Backtracking
@@ -199,4 +201,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0003-longest-substring-without-repeating-characters) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
