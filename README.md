@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -97,6 +98,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0128-longest-consecutive-sequence) |
 | [0740-delete-and-earn](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0740-delete-and-earn) |
@@ -193,4 +195,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0056-merge-intervals) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
