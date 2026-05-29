@@ -122,6 +122,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0011-container-with-most-water](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0128-longest-consecutive-sequence) |
@@ -188,4 +189,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0176-second-highest-salary](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
