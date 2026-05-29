@@ -125,6 +125,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0004-median-of-two-sorted-arrays](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0074-search-a-2d-matrix) |
@@ -137,6 +138,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
