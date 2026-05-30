@@ -116,6 +116,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0007-reverse-integer](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0070-climbing-stairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -178,6 +179,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0740-delete-and-earn](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0740-delete-and-earn) |
 ## Linked List
@@ -222,4 +224,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
