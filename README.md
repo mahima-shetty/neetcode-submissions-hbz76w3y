@@ -113,6 +113,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0067-add-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/3345-smallest-divisible-digit-product-i) |
