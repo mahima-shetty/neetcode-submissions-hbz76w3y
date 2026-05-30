@@ -81,6 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0014-longest-common-prefix](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0067-add-binary) |
 | [0214-shortest-palindrome](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0214-shortest-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0387-first-unique-character-in-a-string) |
 ## Rolling Hash
@@ -113,6 +114,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0067-add-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -211,4 +213,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
