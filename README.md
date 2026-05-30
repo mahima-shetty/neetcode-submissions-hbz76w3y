@@ -103,6 +103,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0387-first-unique-character-in-a-string) |
 | [0740-delete-and-earn](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0740-delete-and-earn) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -135,6 +136,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0074-search-a-2d-matrix](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0169-majority-element) |
 | [0740-delete-and-earn](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0740-delete-and-earn) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Two Pointers
@@ -166,6 +168,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0004-median-of-two-sorted-arrays](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0169-majority-element) |
 ## Union-Find
 |  |
 | ------- |
@@ -204,6 +207,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -215,6 +219,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
