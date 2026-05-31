@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0072-edit-distance) |
 | [0214-shortest-palindrome](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0214-shortest-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0387-first-unique-character-in-a-string) |
 ## Rolling Hash
@@ -183,6 +184,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0005-longest-palindromic-substring](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0740-delete-and-earn](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0740-delete-and-earn) |
 ## Linked List
