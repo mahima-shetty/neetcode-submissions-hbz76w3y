@@ -104,6 +104,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0387-first-unique-character-in-a-string) |
 | [0740-delete-and-earn](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0740-delete-and-earn) |
@@ -191,6 +192,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0146-lru-cache) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -235,4 +237,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
