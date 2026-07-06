@@ -139,6 +139,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0200-number-of-islands) |
 | [0740-delete-and-earn](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0740-delete-and-earn) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Two Pointers
@@ -175,10 +176,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -245,4 +248,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0146-lru-cache) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mahima-shetty/neetcode-submissions-hbz76w3y/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
